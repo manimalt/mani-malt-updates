@@ -1,9 +1,10 @@
 {
   "app": "mani-malt",
-  "version": "1.1.0",
-  "url": "https://github.com/manimalt/mani-malt-updates/releases/download/v1.1.0/Mani-malt.exe",
-  "sha256": "f153a61fd748b08c9f850ddb03a680227d9822d17a364ae8e5ef8594efb8bfbf",
-  "size": 9359872,
-  "notes": "Erste veröffentlichte Mani-malt-Version mit automatischer Update-Prüfung.",
-  "signature": "GPkvLXmWlG9VmAecj97oXWyftXye9wZMqMWi7yAVePgGetDAELt7yiOmWC7B6NUPZQ4u8yI0ySJd4TQ8NlJRCA=="
+  "version": "1.2.0",
+  "url": "https://github.com/manimalt/mani-malt-updates/releases/download/v1.2.0/Mani-malt.exe",
+  "sha256": "4714f908c447b755f12c1a7be594e5dfc7754d00ca99a5609f7c12d4e28fc1c9",
+  "size": 9423872,
+  "notes": "Aufmaßrechner mit Farbton, Technik und Angebotsübernahme; Leistungskatalog mit 112 neuen Positionen, Kategorien und Löschfunktion; neue Startseite in gedecktem Grau-Orange.",
+  "signature": "xqjwrn/KWuOeMIroKgppwMUDm3dC28EP9xLx3FbZgBvAoIWQC3bzgBFjUXa2x7T/B+8LEJwizolZBYHGZLPGBA=="
 }
+
