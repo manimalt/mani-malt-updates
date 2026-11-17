@@ -1,0 +1,9 @@
+{
+  "app": "mani-malt",
+  "version": "1.1.0",
+  "url": "https://github.com/manimalt/mani-malt-updates/releases/download/v1.1.0/Mani-malt.exe",
+  "sha256": "f153a61fd748b08c9f850ddb03a680227d9822d17a364ae8e5ef8594efb8bfbf",
+  "size": 9359872,
+  "notes": "Erste veröffentlichte Mani-malt-Version mit automatischer Update-Prüfung.",
+  "signature": "GPkvLXmWlG9VmAecj97oXWyftXye9wZMqMWi7yAVePgGetDAELt7yiOmWC7B6NUPZQ4u8yI0ySJd4TQ8NlJRCA=="
+}
