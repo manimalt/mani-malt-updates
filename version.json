@@ -1,9 +1,9 @@
 {
   "app": "mani-malt",
-  "version": "1.4.0",
-  "url": "https://github.com/manimalt/mani-malt-updates/releases/download/v1.4.0/Mani-malt.exe",
-  "sha256": "a895a36cd6382b39710f3cae6d26fecabed32f707e9bbd33fd5db17c2a50341e",
-  "size": 9555456,
-  "notes": "Neuer übersichtlicher Monats- und Tageskalender, Kundentermine mit Google-Maps-Navigation und Google-Kalender-Abgleich für private und geschäftliche Termine. Windows-geschützte Google-Anmeldung. Einmalige OAuth-Einrichtung erforderlich.",
-  "signature": "TDZfGnzrhcGoOIX31ssmk4Cgx5+pINPM+vIa/JeSGSpCTbKO8kayMvU1XZl97Dnlhg648IwH4q9EcVJSJwSwDA=="
+  "version": "1.4.1",
+  "url": "https://github.com/manimalt/mani-malt-updates/releases/download/v1.4.1/Mani-malt.exe",
+  "sha256": "48818fa3073492586f7f7ef72f967d793f9c73722674f1a2c561b9e9d79f61f4",
+  "size": 9570304,
+  "notes": "Kalender neu gestaltet: umschaltbare Monats- und Wochenansicht mit ISO-Kalenderwochen, direkt anklickbaren Tages- und Stundenfeldern, unmittelbarer Terminbearbeitung und gut erkennbaren Terminzeiten. Google-Abgleich und Kundenverwaltung bleiben erhalten.",
+  "signature": "8Ju3FsgIU0/rtA//Cqsg8zdLm3Q9/LRny3mWDZr69Y35yuIbZsEIZau8+KMEzF7IBuAdKDeadmwsdW/F8YmPBg=="
 }
